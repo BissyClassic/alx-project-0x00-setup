@@ -20,6 +20,11 @@ const Home: React.FC = () => {
   )
 }
 
+
+
+
+
+
 export default function Home() {
   return (
     <div
@@ -122,3 +127,4 @@ export default function Home() {
     </div>
   );
 }
+export default Home;
